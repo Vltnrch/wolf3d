@@ -22,6 +22,7 @@
 # include <math.h>
 # include "mlx.h"
 # include "libft.h"
+# include "get_next_line.h"
 
 # define MAPWIDTH 30
 # define MAPHEIGHT 30

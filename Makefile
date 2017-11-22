@@ -15,7 +15,7 @@ NAME = wolf3d
 LIB = -framework OpenGL -framework AppKit \
 		-L./minilibx_macos -lmlx -L./libft -lft
 
-HDR = -I./minilibx_macos -I./libft
+HDR = -I./minilibx_macos -I./libft/includes
 
 FLAGS = -Wall -Werror -Wextra
 
